@@ -15,3 +15,13 @@ strong {
 .photo {
     line-height: 0%;
 }
+ .foto1 {
+    background-image: url(../img/graph.jpg);
+    background-size: 200px;
+    background-repeat: no-repeat;
+ } 
+ .foto2 {
+    background-image: url(../img/monitor.jpg);
+    background-size: 200px;
+    background-repeat: no-repeat;
+ }
